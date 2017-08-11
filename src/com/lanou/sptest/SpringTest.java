@@ -12,11 +12,6 @@ public class SpringTest {
 	@Test
 	public void myTest(){
 		
-		
-		System.out.println("看把你能得不行");
-		
-		
-		
 		// 1.不使用spring下的对象创建
 //		Car car = new Car();
 //		car.setName("小黄");
